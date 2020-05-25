@@ -1,1 +1,1 @@
-This repository enables with goproupdates.dhurd.com subdomain.
+This repository enables the goproupdates.dhurd.com subdomain.
