@@ -4,9 +4,9 @@
         <title>GoPro Tracker</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 27 May 2020 13:56:58 -0700</pubDate>
+            <pubDate>Wed, 27 May 2020 14:03:06 -0700</pubDate>
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-            <enclosure url="https://goproupdates.dhurd.com/GoPro_Tracker.dmg" sparkle:version="m6" sparkle:shortVersionString="1.0" length="5707772" type="application/octet-stream" sparkle:edSignature="Vu53KOe3Zx5gwSMITcskxGNPRYl8AMT9fJngepiGEpZ6x8AXVVLKC4SiTclneiYWTvKOq18yyzFGoN+OyhGkCg=="/>
+            <enclosure url="https://goproupdates.dhurd.com/GoPro_Tracker.dmg" sparkle:version="m6" sparkle:shortVersionString="1.0" length="5707914" type="application/octet-stream" sparkle:edSignature="OOJMkKywmoSozFsSyxYKRnowzEWIFLmjMSmCmPB8MU5j/jn9+kZAlmVLR2Btiyjm54irvgAvKx26lcPJhmN8BA=="/>
         </item>
     </channel>
 </rss>
